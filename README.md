@@ -12,17 +12,17 @@
 
 Panels for **After Effects** and **Premiere Pro**. HT Toolkit installs them; open them from **Window › Extensions**.
 
-### <img src="docs/icons/aieditor.png" width="28" align="middle">&nbsp; HT AI Editor
+### <img src="docs/icons/aieditor.png" width="28" align="top">&nbsp; HT AI Editor
 `After Effects` `Premiere Pro` `Claude`
 
 Lets **Claude** work inside your project: it looks at the timeline and the picture, then cuts, trims, removes silences, adds effects, colour, text, keyframes and markers, sets audio levels, exports and reframes. It can **transcribe your timeline on your Mac** to cut by what is said or line shots up with a voiceover. Every change can be undone.
 
-### <img src="docs/icons/captions.png" width="28" align="middle">&nbsp; HT Captions
+### <img src="docs/icons/captions.png" width="28" align="top">&nbsp; HT Captions
 `After Effects` `Premiere Pro`
 
 Animated captions in any language, transcribed on your Mac with word-level timing. It can ignore music and sound effects and tell speakers apart. Six animations: static, word highlight, pop-in, karaoke, bounce and typewriter. Add a box behind the lines or the spoken word, a stroke, a shadow or motion blur, then save your looks. In After Effects the captions are one precomp, and in Premiere one nested sequence, so you move them as a single piece.
 
-### <img src="docs/icons/multiwav.png" width="28" align="middle">&nbsp; HT MultiWav
+### <img src="docs/icons/multiwav.png" width="28" align="top">&nbsp; HT MultiWav
 `After Effects` `Premiere Pro`
 
 Paste a YouTube, Spotify, Instagram or TikTok link and get WAV, MP3 or MP4, imported straight into a bin. Videos are converted so Premiere can edit them.
@@ -31,7 +31,7 @@ Paste a YouTube, Spotify, Instagram or TikTok link and get WAV, MP3 or MP4, impo
 
 Mac apps that work on their own, no Adobe app needed. Install them from the **Apps** section of HT Toolkit.
 
-### <img src="docs/icons/captions.png" width="28" align="middle">&nbsp; HT Captions
+### <img src="docs/icons/captions.png" width="28" align="top">&nbsp; HT Captions
 `Mac app`
 
 The same captions for any **finished video**. Drop a video in, edit the words and their timing, pick a look and drag the captions where you want them. Safe-zone guides for TikTok, Reels and Shorts help with placement. Then export:
