@@ -60,13 +60,38 @@ These are also built-in prompts in the HT AI Editor panel (copy them with one cl
 
 ## Install
 
-1. **Download** [HT-Toolkit.dmg](https://github.com/gavostar/HT-Toolkit/releases/latest/download/HT-Toolkit.dmg) and open it.
-2. **Drag HT Toolkit into Applications.**
-3. **Open HT Toolkit.** The first time, macOS stops it because the app isn't from the App Store or an identified developer. Click **Done** (not *Move to Trash*).
-4. Open **System Settings › Privacy & Security**, scroll down to **Security**, and click **Open Anyway** next to *"HT Toolkit" was blocked*. Confirm with **Open Anyway** and your password or Touch ID. You only do this once; updates open normally.
-5. In HT Toolkit, pick **After Effects** or **Premiere Pro** and click **Install All**. Restart the app and open the panels from **Window › Extensions**.
-6. For HT AI Editor, open **Claude** in HT Toolkit and click **Connect** for each app. Claude asks you to confirm.
-7. For the HT Captions app, click **Install** under **Apps**.
+HT Toolkit isn't from the App Store, so the first time you open it macOS asks you to confirm it. That takes a minute, once. Updates open normally.
+
+### 1. Drag HT Toolkit into Applications
+Download **[HT-Toolkit.dmg](https://github.com/gavostar/HT-Toolkit/releases/latest/download/HT-Toolkit.dmg)**, open it and drag **HT Toolkit** onto **Applications**.
+
+<p align="center"><img src="docs/install/1-dmg.png" alt="Drag HT Toolkit to Applications" width="360"></p>
+
+### 2. Open it and click Done
+Open **HT Toolkit** from Applications. macOS says it couldn't verify the app: click **Done**, not *Move to Bin*.
+
+<p align="center"><img src="docs/install/2-not-opened.png" alt="&quot;HT Toolkit&quot; Not Opened: click Done" width="300"></p>
+
+### 3. Go to Privacy & Security
+Open **System Settings** and choose **Privacy & Security** in the sidebar.
+
+<p align="center"><img src="docs/install/3-privacy-security.png" alt="System Settings, Privacy & Security" width="560"></p>
+
+### 4. Click Open Anyway
+Scroll down to **Security**. Next to *"HT Toolkit" was blocked to protect your Mac*, click **Open Anyway**.
+
+<p align="center"><img src="docs/install/4-open-anyway.png" alt="Open Anyway next to HT Toolkit" width="560"></p>
+
+### 5. Confirm
+Click **Open Anyway** once more, then enter your password or use Touch ID. HT Toolkit opens, and from now on it opens like any other app.
+
+<p align="center"><img src="docs/install/5-confirm.png" alt="Open &quot;HT Toolkit&quot;? Click Open Anyway" width="300"></p>
+
+### 6. Install the plugins and apps
+In HT Toolkit:
+- Pick **After Effects** or **Premiere Pro** and click **Install All**. Restart that app and open the panels from **Window › Extensions**.
+- For HT AI Editor, open **Claude** and click **Connect** for each app. Claude asks you to confirm.
+- For the HT Captions app, click **Install** under **Apps**.
 
 The first transcription downloads the speech models (about 3 GB) once.
 
