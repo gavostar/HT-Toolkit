@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/gavostar/HT-Toolkit/releases/latest/download/HT-Toolkit.dmg"><b>⬇&nbsp; Download HT Toolkit for Mac</b></a>
-  &nbsp;·&nbsp; macOS 12 or later, Apple silicon or Intel
+  &nbsp;·&nbsp; macOS 12 or later on Apple silicon, macOS 13 or later on Intel
   <br><sub>One app installs and updates everything below. Free to use. The plugins and apps need Apple silicon (M1 and newer) and macOS 14 or later.</sub>
 </p>
 
