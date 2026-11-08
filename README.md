@@ -23,9 +23,11 @@ Lets **Claude** work inside your project: it looks at the timeline and the pictu
 - When you ask for a LUT without saying which, Claude asks you: which one, and whether to find it in your files or let you pick it.
 
 ### <img src="docs/icons/captions.png" width="28" align="top">&nbsp; HT Captions
-`After Effects` `Premiere Pro`
+`After Effects` `Premiere Pro` `ElevenLabs`
 
-Animated captions in any language, transcribed on your Mac with word-level timing. It can ignore music and sound effects and tell speakers apart. Six animations: static, word highlight, pop-in, karaoke, bounce and typewriter. Add a box behind the lines or the spoken word (it glides from word to word), a stroke, a shadow or motion blur, then save your looks: a saved style remembers where the captions sit. **Brand templates** keep a brand's names and terms (spelled right when transcribing) together with its style, one click to switch, and you can share them as `.htbrand` files. In After Effects the captions are one precomp, and in Premiere one nested sequence, so you move them as a single piece.
+Animated captions in any language — transcribed **on your Mac** or with **ElevenLabs**, with word-level timing. It can ignore music and sound effects and tell speakers apart, and an optional AI spell-check tidies names and tricky words. Six animations: static, word highlight, pop-in, karaoke, bounce and typewriter. Add a box behind the lines or the spoken word (it glides from word to word), a stroke, a shadow or motion blur, then save your looks: a saved style remembers where the captions sit. **Brand templates** keep a brand's names and terms (spelled right when transcribing) together with its style, one click to switch, and you can share them as `.htbrand` files. In After Effects the captions are one precomp, and in Premiere one nested sequence, so you move them as a single piece.
+
+<p align="center"><img src="docs/captions-plugin.png" alt="HT Captions in After Effects: captions on the comp and the HT Captions Timeline window" width="100%"></p>
 
 ### <img src="docs/icons/multiwav.png" width="28" align="top">&nbsp; HT MultiWav
 `After Effects` `Premiere Pro`
@@ -37,9 +39,9 @@ Paste a YouTube, Spotify, Instagram or TikTok link and get WAV, MP3 or MP4, impo
 Mac apps that work on their own, no Adobe app needed. Install them from the **Apps** section of HT Toolkit.
 
 ### <img src="docs/icons/captions.png" width="28" align="top">&nbsp; HT Captions
-`Mac app`
+`Mac app` `ElevenLabs`
 
-The same captions for any **finished video**. Drop a video in, edit the words and their timing, pick a look and drag the captions where you want them. Safe-zone guides for TikTok, Reels and Shorts help with placement. Before any video is open, sample captions play on a loop, so you can build styles and brand templates first. Then export:
+The same captions for any **finished video** — transcribed on your Mac or with ElevenLabs, with the same optional AI spell-check. Drop a video in, edit the words and their timing, pick a look and drag the captions where you want them. Safe-zone guides for TikTok, Reels and Shorts help with placement. Before any video is open, sample captions play on a loop, so you can build styles and brand templates first. Then export:
 - an **MP4** (H.264 + AAC) that plays on Mac, Windows, phones and the web
 - or the **captions alone** as a transparent ProRes 4444 overlay
 - or an **SRT** subtitle file
@@ -116,7 +118,7 @@ English, Deutsch, Slovenčina, Čeština, Magyar and Español. Pick yours at the
 
 ## Privacy
 
-Transcription, voice isolation and captions run **on your Mac**, and your media is never uploaded. HT AI Editor talks to Claude only when you ask Claude to edit, through the Claude app you're signed in to. HT MultiWav downloads only the links you paste.
+By default, transcription, voice isolation and captions run **on your Mac**, and your media is never uploaded. If you pick **ElevenLabs** for transcription or voice isolation, that audio is sent to ElevenLabs with your own key; the optional AI spell-check sends only the caption text to Claude. HT AI Editor talks to Claude only when you ask Claude to edit, through the Claude app you're signed in to. HT MultiWav downloads only the links you paste.
 
 ## Uninstall
 
